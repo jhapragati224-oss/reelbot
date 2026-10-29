@@ -1,0 +1,6 @@
+# One source per line. Plain words = Google News search.
+# A link starting with http = an RSS feed. Lines starting with # are ignored.
+Uttar Pradesh news
+India politics
+India economy
+geopolitics india
